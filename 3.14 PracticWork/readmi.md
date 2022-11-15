@@ -12,7 +12,8 @@ LICENSE: [MIT](/3.14%20PracticWork/license.md)
 4. [Совместная работа и обновление проектов](/3.14%20PracticWork/collab_and_updating.md)
 5. [Осмотр и сравнение](/3.14%20PracticWork/Inspection.md)
 6. [Отладка](/3.14%20PracticWork/debugging.md)
-7. 
+7. [Внесение исправлений](/3.14%20PracticWork/fixing.md)
+8. [Работа с помощью электронной почты](/3.14%20PracticWork/email.md)
 ---
 
 Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
