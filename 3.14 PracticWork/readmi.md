@@ -6,7 +6,7 @@ LICENSE: [MIT](/3.14%20PracticWork/license.md)
 
 ---
 ### Содержание:
-1. Команда [git config](gitconfig.md)
+1. [Основные настройки](basicsetting.md)
 2. 
 ---
 
