@@ -8,7 +8,9 @@ LICENSE: [MIT](/3.14%20PracticWork/license.md)
 ### Содержание:
 1. [Основные настройки](basicsetting.md)
 2. [Основные команды GIT](/3.14%20PracticWork/basiccommands.md)
-3. 
+3. [Ветвление и слияния]()
+4. [Совместная работа и обновление проектов](/3.14%20PracticWork/collab_and_updating.md)
+5. 
 ---
 
 Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
