@@ -6,21 +6,24 @@
 
 > Прежде чем приступить к ознакомлению с основными командами Git для начала давайте познакомимся с интерфейсом личного кабинета на GitHub.
 
-![GitHub account](/3.14%20PracticWork/Main_page.jpg)
+![GitHub account](Main_page.jpg)
 
 Все ваши проекты и работы находятся во владке <span style="color:red">Repositories </span>.
 
 ---
-![REPOSITORIES](/3.14%20PracticWork/repositories.png)
+![REPOSITORIES](repositories.png)
 Так выглядит ваш проект на GitHub со всеми его файлами.
 
 ---
 Так выглядит рабочее пространство в **Visual Studio Code (VS Code)** — текстовый редактор кода для кроссплатформенной разработки веб- и облачных приложений.
 
-![VSCode](/3.14%20PracticWork/coding.jpg)
+![VSCode](coding.jpg)
 
 На картике мы видим:
 + <span style="color:yellow">Проводник</span>, где хранятся файлы на локальном устройстве.
 + Сам <span style="color:green">текстовый редактор</span>, где пишется текст разметки.
 + Окно <span style="color:orange">предварительного просмотра</span>.
 + <span style="color:red">Терминал</span>, в котором мы вводим команды GIT для управления и записи изменений в основную ветку проекта.
+
+---
+[ДАЛЕЕ >](basicsetting.md)

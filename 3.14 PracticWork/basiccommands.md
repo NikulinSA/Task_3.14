@@ -31,3 +31,6 @@ git clean -d -n
 Would remove test.o
 Would remove tmp/
 ```
+
+---
+[ДАЛЕЕ >](branch_merge.md)
