@@ -1,4 +1,6 @@
-[< К СОДЕРЖАНИЮ](readmi.md)
+[К СОДЕРЖАНИЮ](readmi.md)
+
+[< НАЗАД](collab_and_updating.md)
 
 ---
 
