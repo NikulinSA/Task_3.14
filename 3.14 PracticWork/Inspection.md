@@ -1,4 +1,4 @@
-[К СОДЕРЖАНИЮ](readmi.md)
+[К СОДЕРЖАНИЮ](readme.md)
 
 [< НАЗАД](collab_and_updating.md)
 
