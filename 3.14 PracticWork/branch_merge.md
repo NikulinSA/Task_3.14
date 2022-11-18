@@ -1,6 +1,6 @@
 [К СОДЕРЖАНИЮ](readme.md)
 
-[< НАЗАД](basiccommands.md)
+*[< НАЗАД](basiccommands.md)*
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-[ДАЛЕЕ >](collab_and_updating.md)
+*[ДАЛЕЕ >](collab_and_updating.md)*

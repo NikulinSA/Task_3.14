@@ -1,6 +1,6 @@
 [К СОДЕРЖАНИЮ](readme.md)
 
-[< НАЗАД](collab_and_updating.md)
+*[< НАЗАД](collab_and_updating.md)*
 
 ---
 
@@ -17,4 +17,4 @@
 
 ---
 
-[ДАЛЕЕ >](debugging.md)
+*[ДАЛЕЕ >](debugging.md)*

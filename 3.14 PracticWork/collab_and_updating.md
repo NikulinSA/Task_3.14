@@ -1,6 +1,6 @@
 [К СОДЕРЖАНИЮ](readme.md)
 
-[< НАЗАД](branch_merge.md)
+*[< НАЗАД](branch_merge.md)*
 
 ---
 

@@ -1,6 +1,6 @@
 [К СОДЕРЖАНИЮ](readme.md)
 
-[< НАЗАД](basicsetting.md)
+*[< НАЗАД](basicsetting.md)*
 
 ---
 # Базовые команды
@@ -37,4 +37,4 @@ Would remove tmp/
 ```
 
 ---
-[ДАЛЕЕ >](branch_merge.md)
+*[ДАЛЕЕ >](branch_merge.md)*
