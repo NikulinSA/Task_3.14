@@ -1,21 +1,21 @@
 # **Инструкция по работе с GIT**
 
-LICENSE: [MIT](license.md)
+LICENSE: [MIT](3.14%20PracticWork/license.md)
 
-![GitLogo](GitLogo.png)
+![GitLogo](/3.14%20PracticWork/GitLogo.png)
 
 ---
 ### Содержание:
-1. [Знакомство с GitHub](github.md)
-2. [Основные настройки](basicsetting.md)
-3. [Основные команды GIT](basiccommands.md)
-4. [Ветвление и слияния](branch_merge.md)
-5. [Совместная работа и обновление проектов](collab_and_updating.md)
-6. [Осмотр и сравнение](Inspection.md)
-7. [Отладка](debugging.md)
-8. [Внесение исправлений](fixing.md)
-9. [Работа с помощью электронной почты](email.md)
-10. [Администрирование](administration.md)
+1. [Знакомство с GitHub](/3.14%20PracticWork/github.md)
+2. [Основные настройки](/3.14%20PracticWork/basicsetting.md)
+3. [Основные команды GIT](/3.14%20PracticWork/basiccommands.md)
+4. [Ветвление и слияния](/3.14%20PracticWork/branch_merge.md)
+5. [Совместная работа и обновление проектов](/3.14%20PracticWork/collab_and_updating.md)
+6. [Осмотр и сравнение](/3.14%20PracticWork/Inspection.md)
+7. [Отладка](/3.14%20PracticWork/debugging.md)
+8. [Внесение исправлений](/3.14%20PracticWork/fixing.md)
+9. [Работа с помощью электронной почты](/3.14%20PracticWork/email.md)
+10. [Администрирование](/3.14%20PracticWork/administration.md)
 ---
 
 *Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).*
